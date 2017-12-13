@@ -38,7 +38,7 @@ namespace ODEV2
             }
             catch (Exception)
             {
-                MessageBox.Show("Girdiğiniz Bilgiler Hatalıdır Kontrol Ediniz!", "HATA!");
+                MessageBox.Show("Girdiğiniz Bilgiler Hatalıdır Kontrol Ediniz!" , "HATA!");
             }
           
                 
