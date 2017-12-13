@@ -29,7 +29,7 @@ namespace ODEV2
                 double sayi = rastgele.Next(0, (int)k + 1);
                 label7.Text = k.ToString();
                 label8.Text = sayi.ToString();
-                textBox5.Text = sayi.ToString() + " \n";
+                textBox5.Text = sayi.ToString() + "  \n";
                 for (int i = 0; i < n - 1; i++)
                 {
 
